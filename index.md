@@ -1,21 +1,21 @@
----
-layout: default
----
 
-{% include 01-name.md %}
+# Welcome to my portfolio!!!
 
-<br>
 
-{% include 02-image.md %}
+### I´m Kcode90 :woman:
 
 <br>
 
-{% include 03-links.md %}
+![Femalecodertocat](https://octodex.github.com/images/femalecodertocat.png)
 
 <br>
 
-{% include 04-lists.md %}
+[GitHub Pages](https://pages.github.com/)
 
 <br>
+### My favorite code:
+  * Phyton *
+  * JS *
+<br>
 
-{% include 05-emphasis.md %}
+** I'm studying programming **
